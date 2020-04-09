@@ -63,14 +63,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\drobilica.cs" />
-    <Compile Include="Assets\KontrolaIgraca.cs" />
-    <Compile Include="Assets\LevelManager.cs" />
-    <Compile Include="Assets\NeprijateljSpawner.cs" />
-    <Compile Include="Assets\PonasanjeNeprijatelja.cs" />
-    <Compile Include="Assets\Prefab\Pozicija.cs" />
-    <Compile Include="Assets\PrikazRezultata.cs" />
-    <Compile Include="Assets\Projektil.cs" />
+    <Compile Include="Assets\Scripts\drobilica.cs" />
+    <Compile Include="Assets\Scripts\KontrolaIgraca.cs" />
+    <Compile Include="Assets\Scripts\LevelManager.cs" />
+    <Compile Include="Assets\Scripts\MusicPlayer.cs" />
+    <Compile Include="Assets\Scripts\NeprijateljSpawner.cs" />
+    <Compile Include="Assets\Scripts\PonasanjeNeprijatelja.cs" />
+    <Compile Include="Assets\Scripts\Pozicija.cs" />
+    <Compile Include="Assets\Scripts\PrikazRezultata.cs" />
+    <Compile Include="Assets\Scripts\Projektil.cs" />
+    <Compile Include="Assets\Scripts\Semafor.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Mateo/Desktop/Unity/Svemirski brod/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
